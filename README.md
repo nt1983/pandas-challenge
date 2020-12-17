@@ -1,3 +1,5 @@
+Analysis of both homeworks:
+
 This ReadMe file has analyze for both home works:
 
 Option 1: Heroes of Pymoli
